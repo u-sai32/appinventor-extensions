@@ -195,7 +195,7 @@
        <copy toFile="${public.deps.dir}/keyboardview.aar" file="${lib.dir}/kangris/keyboardview.aar" />
        <copy toFile="${public.deps.dir}/equalizers.jar" file="${lib.dir}/kangris/equalizers.jar" />
        <copy toFile="${public.deps.dir}/equalizers.aar" file="${lib.dir}/kangris/equalizers.aar" />
-
+       <copy toFile="${public.deps.dir}/google-play-services.jar" file="${lib.dir}/kangris/google-play-services.jar" />
       
   </target>
 
