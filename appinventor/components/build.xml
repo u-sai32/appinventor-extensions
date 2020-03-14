@@ -196,7 +196,7 @@
        <copy toFile="${public.deps.dir}/equalizers.jar" file="${lib.dir}/kangris/equalizers.jar" />
        <copy toFile="${public.deps.dir}/equalizers.aar" file="${lib.dir}/kangris/equalizers.aar" />
        <copy toFile="${public.deps.dir}/google-play-services.jar" file="${lib.dir}/kangris/google-play-services.jar" />
-      
+       <copy toFile="${public.deps.dir}/places.jar" file="${lib.dir}/kangris/places-2.2.0.jar" />
   </target>
 
   <path id="AndroidRuntime.path">
